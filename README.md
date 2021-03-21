@@ -2,7 +2,7 @@
 
 - I am a web developer with interesting ideas.
 - I’m currently working on Shopee Shenzhen.
-- Here is my blog https://syun0216.github.io/Front-end-notes/;
+- Here is my blog https://syun0216.github.io/Front-end-notes/pages/413c60/;
 
 <!--
 **syun0216/syun0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
